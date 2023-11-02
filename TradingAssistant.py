@@ -1,4 +1,8 @@
 
+#Use Anaconda and Python 3.8.18. Pip install the imported packages to run this properly
+#In the Anaconda terminal, go to the path of where the file is located and add your Open AI API Key there as well
+#Then to run it, type in the Anaconda terminal command line: streamlit run TradingAssistant and a web page will pop up.
+#You can ask it questions like, What is the current stock price of Apple or any stock, even crypto.
 import json
 from pickle import STRING
 import openai
